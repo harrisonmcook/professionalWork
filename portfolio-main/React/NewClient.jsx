@@ -11,7 +11,7 @@ import InvestmentAccounts from "./assets/InvestmentAccounts";
 import RetirementAccounts from "./assets/RetirementAccounts";
 import ClientProperties from "./assets/ClientProperties";
 import HealthInsurance from "./protection/HealthInsurance";
-import debug from "sabio-debug";
+import debug from "yellowbrick-debug";
 import "./newclientloki.css";
 import "bootstrap/dist/css/bootstrap.min.css";
 import {
