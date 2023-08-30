@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from "react";
 import "rc-pagination/assets/index.css";
 import locale from "rc-pagination/lib/locale/en_US";
-import debug from "sabio-debug";
+import debug from "yellowbrick-debug";
 import userService from "services/userService";
 import MappedUsers from "./MappedUsers";
 import Pagination from "rc-pagination";
