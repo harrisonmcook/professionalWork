@@ -1,6 +1,6 @@
 import React from "react";
 import PropTypes from "prop-types";
-import debug from "sabio-debug";
+import debug from "yellowbrick-debug";
 import userService from "services/userService";
 import toastr from "toastr";
 
