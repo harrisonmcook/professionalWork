@@ -1,7 +1,7 @@
 import React from "react";
 import { useState, useEffect } from "react";
 import { Formik, Field, Form, ErrorMessage } from "formik";
-import debug from "sabio-debug";
+import debug from "yellowbrick-debug";
 import clientService from "services/clientService";
 import toastr from "toastr";
 import { Collapse } from "react-bootstrap";
