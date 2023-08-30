@@ -9,3 +9,18 @@ My responsibility at Yellowbrick was to create a seamless user experience that a
 
 ![Yellowbrick New client](https://github.com/harrisonmcook/portfolio/assets/130939457/25cd7b81-e328-488d-97e8-f8b219e52064)
 ![yellowbrick client view](https://github.com/harrisonmcook/portfolio/assets/130939457/96a0dffe-0f1f-4a08-8709-c5bb2a581597)
+
+
+• Developed  web application to replace pen-and-paper system of managing client data, sending business emails, and onboarding clients.
+• Created client intake form to allow financial agents to input new client personal information into the database using Formik and Yup to ensure data validation within each created React component.
+• Created unique styling for React components in CSS.
+• Standardized elements across the web application using Bootstrap Library.
+• Managed integration of 15+ team members' components in multi-step React wizard to provide dynamic interaction within the client intake form.
+• Added ease of use functionality for confirming client location by geocoding addresses and providing autocomplete functionality with third-party Google Maps API.
+• Prevented any data anomalies of client personal information within databases and ensured adherence to full normalization of created SQL tables.
+• Provided easy access for financial agents to query 1,000+ client database by user input parameter by writing SQL stored procedures.
+• Ensured clients’ data security by leveraging UDT's, joins, foreign keys, and transaction control within database.
+• Designed and built 25+ RESTful API's within .NET framework using C# to create controllers and services.
+• Worked in a team of developers using AGILE Methodology.
+• Participated in daily stand ups to coordinate product development.
+• Used Git and GitHub version control system and its repository manager, respectively.
