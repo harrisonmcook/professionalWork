@@ -1,12 +1,12 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using Newtonsoft.Json;
-using Sabio.Data;
-using Sabio.Data.Providers;
-using Sabio.Models;
-using Sabio.Models.Domain;
-using Sabio.Models.Domain.Lookups;
-using Sabio.Models.Requests.ClientRequests;
-using Sabio.Services.Interfaces;
+using Yellowbrick.Data;
+using Yellowbrick.Data.Providers;
+using Yellowbrick.Models;
+using Yellowbrick.Models.Domain;
+using Yellowbrick.Models.Domain.Lookups;
+using Yellowbrick.Models.Requests.ClientRequests;
+using Yellowbrick.Services.Interfaces;
 using System;
 using System.Collections.Generic;
 using System.Data;
@@ -15,7 +15,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Sabio.Services.ClientServices
+namespace Yellowbrick.Services.ClientServices
 
 {
     public class ClientService : IClientService
