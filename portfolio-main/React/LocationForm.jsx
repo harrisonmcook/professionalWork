@@ -1,7 +1,7 @@
 import React, { useState, useEffect, useRef } from "react";
 import { Formik, Form, Field, ErrorMessage } from "formik";
 //import locationServices from "services/locationService";
-import debug from "sabio-debug";
+import debug from "yellowbrick-debug";
 import lookUpService from "services/lookUpService";
 import locationSchema from "schemas/locationsSchema";
 import LocationsAutoComplete from "./LocationsAutocomplete";
