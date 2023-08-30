@@ -1,11 +1,11 @@
-﻿using Sabio.Models.Domain.Lookups;
+﻿using Yellowbrick.Models.Domain.Lookups;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Sabio.Models.Domain
+namespace Yellowbrick.Models.Domain
 {
     public class Client : ClientBase
     {
