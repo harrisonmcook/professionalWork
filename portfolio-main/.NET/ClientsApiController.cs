@@ -2,16 +2,16 @@
 using Microsoft.AspNetCore.Mvc;
 
 using Microsoft.Extensions.Logging;
-using Sabio.Models;
-using Sabio.Models.Domain;
-using Sabio.Models.Requests.ClientRequests;
-using Sabio.Services;
-using Sabio.Services.ClientServices;
-using Sabio.Web.Controllers;
-using Sabio.Web.Models.Responses;
+using Yellowbrick.Models;
+using Yellowbrick.Models.Domain;
+using Yellowbrick.Models.Requests.ClientRequests;
+using Yellowbrick.Services;
+using Yellowbrick.Services.ClientServices;
+using Yellowbrick.Web.Controllers;
+using Yellowbrick.Web.Models.Responses;
 using System;
 
-namespace Sabio.Web.Api.Controllers.ClientControllers
+namespace Yellowbrick.Web.Api.Controllers.ClientControllers
 {
     [Route("api/clients")]
     [ApiController]
