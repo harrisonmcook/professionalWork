@@ -7,7 +7,7 @@ My responsibility at Yellowbrick was to create a seamless user experience that a
 
 
 
-![Yellowbrick New client](https://github.com/harrisonmcook/portfolio/assets/130939457/25cd7b81-e328-488d-97e8-f8b219e52064)
+![Yellowbrick New client](https://i.imgur.com/GUNtk27.jpg)
 ![yellowbrick client view](https://i.imgur.com/8hKTOts.jpg)
 
 
