@@ -8,7 +8,7 @@ My responsibility at Yellowbrick was to create a seamless user experience that a
 
 
 ![Yellowbrick New client](https://github.com/harrisonmcook/portfolio/assets/130939457/25cd7b81-e328-488d-97e8-f8b219e52064)
-![yellowbrick client view](https://github.com/harrisonmcook/portfolio/assets/130939457/96a0dffe-0f1f-4a08-8709-c5bb2a581597)
+![yellowbrick client view]([https://github.com/harrisonmcook/portfolio/assets/130939457/96a0dffe-0f1f-4a08-8709-c5bb2a581597](https://i.imgur.com/8hKTOts.jpg)
 
 
 • Developed  web application to replace pen-and-paper system of managing client data, sending business emails, and onboarding clients.
