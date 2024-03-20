@@ -1,5 +1,5 @@
 # Professional Work
-Selected and approved code snippets from recent projects.
+This contains selected and approved code snippets from recent projects.
 # Yellowbrick
 Yellowbrick is a Los Angeles based financial planning company specializing in life insurance, retirement planning, and investment advice. Due to the proprietary nature of the code only selected, approved snippets of my code can be shared in this repository. This repository contains SQL, .NET, and ReactJS code.
 
