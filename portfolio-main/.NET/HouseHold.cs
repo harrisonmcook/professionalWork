@@ -28,3 +28,4 @@ namespace Yellowbrick.Models.Domain
         public DateTime DateModified { get; set; }
     }
 }
+//
